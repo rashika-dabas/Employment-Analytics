@@ -1,0 +1,21 @@
+Focus Areas
+1. What are the most significant 'trends' in the data that can be highlighted through charts or graphs?
+Aim: To identify the most impactful data points that can be visualized to provide clear insights
+2. Which data sets can be 'compared' side-by-side to show 'correlations or contrasts'?
+Aim: To understand which comparisons can be made visually to highlight important relationships or differences
+3. How can we use infographics to 'simplify' complex data for better understanding?
+Aim: To focus on using visual tools to make complicated information more accessible
+4. What type of 'visualizations' would best represent the key findings?
+Aim: To determine the most effective visual formats for presenting the data
+5. Are there any 'outliers or anomalies' in the data that should be highlighted through visuals?
+Aim: To identify unusual data points that could be significant when visualized
+
+Delivering Value (Target Audience: Students, Researchers/Academicians, Job Seekers and Career Transitions)
+1. What are the key skills and qualifications that are in high demand according to the data? (Extract actionable insights for individuals looking to enhance their employability)
+2. How can we visualize career growth opportunities in different industries? (Focus on creating visuals that show potential career paths and growth areas)
+3. What are the common career transition paths and how can we illustrate them? (Map out typical career changes and present them in an easy-to-understand format)
+4. Which industries or job roles are experiencing the most growth, and how can we highlight this information? (Provide valuable insights into booming sectors and roles)
+5. How can we use the data to create a visual guide for job seekers on the most effective job search strategies? (Focus on providing practical advice through visuals)
+6. What are the educational qualifications that correlate with higher employment rates, and how can we present this data? (Showcase the relationship between education and employment visually)
+
+Use Power BI (for interactivity) and Python (for focusing on metadata)

@@ -25,5 +25,6 @@
 
 ## Tools
 - Excel
+- Perplexity.AI
 - Python
 - Power BI

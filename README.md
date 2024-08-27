@@ -10,5 +10,6 @@
 - Provide ongoing status reports for stakeholders and prepare detailed documentation of data-related requirements, tools, and procedures
 
 ## Tools
+- Excel
 - Python
 - Power BI

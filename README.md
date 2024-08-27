@@ -34,4 +34,4 @@
 2. Plan Analytics
 3. Gather Metadata
 4. Visualize Metrics
-5. Benchmarking Dashboard Insights
+5. Benchmark Dashboard Insights

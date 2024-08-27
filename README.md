@@ -28,3 +28,10 @@
 - Perplexity.AI
 - Python
 - Power BI
+
+## Steps
+1. Research Data
+2. Plan Analytics
+3. Gather Metadata
+4. Visualize Metrics
+5. Benchmarking Dashboard Insights

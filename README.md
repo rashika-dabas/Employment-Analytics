@@ -21,7 +21,7 @@
 7. Mandatory Canadian Provincial Certifications
 8. Grade 11 and 12 Subjects Required
 9. Tags (Some General Tags for Career)
-10. Image (Unsplash – Small, Pexels or Pixabay)
+10. Image (Unsplash, Pexels or Pixabay – Small)
 
 ## Tools
 - Excel

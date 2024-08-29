@@ -13,7 +13,7 @@
 - Input: Career Name
 - Output Details (Use Job Banks):
 1. Career Description (Brief Overview)
-2. Career Salary Range in Canada (Minimum and Maximum earnings)
+2. Career Salary Range in Canada (Minimum and Maximum Earnings)
 3. Language Requirements (English and French)
 4. Job Duties (Short Bullet Points)
 5. Future Scope (Insights on the Market Projection with statistics from reliable sources like Statistics Canada)
